@@ -104,7 +104,7 @@ These metrics come from a small synthetic dataset and a single train/test split.
 
 ## 🚀 Live Demo
 
-[Click here to try the app](
+[Click here to try the app](https://house-price-prediction-krs2iqyiofhg8xbfoycmnx.streamlit.app/)
 
 
 ## 👩‍💻 Author
