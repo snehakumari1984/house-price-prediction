@@ -101,6 +101,12 @@ These metrics come from a small synthetic dataset and a single train/test split.
 - Add model validation and prediction error visualizations.
 - Deploy the application online.
 
+
+## 🚀 Live Demo
+
+[Click here to try the app](
+
+
 ## 👩‍💻 Author
 
 **Sneha Kumari**
